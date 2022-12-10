@@ -1,0 +1,1 @@
+../target/apache-tinkerpop-gremlin-console-3.7.0-SNAPSHOT-standalone/bin/gremlin.sh
